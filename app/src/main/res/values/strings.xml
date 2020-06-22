@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">richtoast</string>
+    <string name="diary_toast_text">保存成功！可在最新版app\n<font color="#28bea0">我的-创作和发言</font> 中查看</string>
+</resources>
